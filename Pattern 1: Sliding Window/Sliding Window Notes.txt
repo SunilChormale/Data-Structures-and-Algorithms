@@ -13,4 +13,9 @@ When to use Sliding window?
     If you need to identify a longest, shortest, or 
     most optimal sequence that satisfies a given condition in a collection
 
+Time Complexity: O(N)
+Space Complexity: O(1)
 
+Leetcode : 
+
+https://leetcode.com/problems/maximum-average-subarray-i/description/

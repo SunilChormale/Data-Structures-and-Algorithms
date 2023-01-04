@@ -26,5 +26,9 @@ public class SlidingWindow{
                 windowStart++;  
             }
         }
+
+        /**
+         * When creating the Dynamic Window slider just replace the if with while 
+         */
     }
 }
